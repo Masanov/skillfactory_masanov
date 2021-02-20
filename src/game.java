@@ -12,6 +12,7 @@ public class game {
             int start = matcher.start();
             int end = matcher.end();
             System.out.print(text.substring(start,end) + " ");
+            System.out.print(text.substring("end");
         }
 
 
