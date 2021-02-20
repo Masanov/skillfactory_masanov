@@ -13,7 +13,8 @@ public class game {
             int end = matcher.end();
             System.out.print(text.substring(start,end) + " ");
             System.out.print("end");
-            System.out.print("new");
+            System.out.print("new_branch");
+
         }
 
 
